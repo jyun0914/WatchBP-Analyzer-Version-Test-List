@@ -1,0 +1,9 @@
+{
+  "AppName": "WatchBP Analyzer",
+  "NewstVersion": "1.0.1.0",
+  "UpdateDate": 1593072244,
+  "DownloadLink": "https://www.microlife.com/media/3335/download/WatchBP%20Analyzer%20v1.0.1.0%20Installer%2020200624.exe?v=4",
+  "Changelog": "Bug fixes and performance improvements.\r\nSupport WatchBP ABI (with pulse wave presentation)\r\nPatient ID supports ' ' and '-'",
+  "MoreChangelogRUL": "",
+  "Toast": ""
+}
