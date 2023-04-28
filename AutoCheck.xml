@@ -1,7 +1,7 @@
 <item>
 <version>5.0.0.0</version>
 <url>"https://www.microlife.com/support/software-professional-products"</url>
-<changelog> 123456789 <changelog/>
+<changelog> 123456789 </changelog>
 <mandatory>false</mandatory>
 <MoreChangelogRUL/>
 <Toast/>
