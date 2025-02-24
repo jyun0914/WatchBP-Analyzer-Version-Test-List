@@ -2,10 +2,10 @@
 <version>5.0.0.0</version>
 <url>"https://www.microlife.com/support/software-professional-products"</url>
 <changelog>To enhance cybersecurity, WatchBP Analyzer V1.7.0.0 will introduce database encryption. During installation, WatchBP Analyzer will automatically create a backup of your current unencrypted database.
-Please note that once you start using WatchBP Analyzer V1.7.0.0
+Please note that once you start using WatchBP Analyzer V1.7.0.0, if you need to roll back to a previous version, the older software will be unable to read the encrypted database, resulting in operational failure. Therefore, you must use the unencrypted database backup when rolling back to a previous version.
+Thank you for your understanding and support.
 </changelog>
 <mandatory>false</mandatory>
-<MoreChangelogRUL>, if you need to roll back to a previous version, the older software will be unable to read the encrypted database, resulting in operational failure. Therefore, you must use the unencrypted database backup when rolling back to a previous version.
-Thank you for your understanding and support.</MoreChangelogRUL>
+<MoreChangelogRUL/>
 <Toast/>
 </item>
